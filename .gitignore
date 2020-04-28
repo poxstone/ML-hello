@@ -1,0 +1,5 @@
+cloudml-samples
+venv
+*/.ipynb_checkpoints
+.ipynb_checkpoints
+platzi/.ipynb_checkpoints/Platzi
